@@ -1,0 +1,104 @@
+;2010;2011;2012;2013;2014;2015;
+never Changing Person ID;persnr;persnr;persnr;persnr;persnr;persnr;persnr
+Year of Birth;bap15002;bbp13202;bcp12803;bdp13403;bep12603;bfpbirthy;bfpbirthy
+Sex;bap15001;bbp13201;bcp12801;bdp13401;bep12601;bfpsex;bfpsex
+Year;welle;welle;welle;welle;welle;welle;
+Registered Unemployed;bap06;bbp06;bcp08;bdp15;bep09;bfp15;bfp15
+Years Worked on Last Job;bap7701;bbp8701;bcp7501;bdp9301;bep8001;bfp2801;bfp2801
+Future Job Prospects;bap80;bbp90;bcp78;bdp96;bep83;bfp31;bfp31
+Employment Status;bap09;bbp09;bcp11;bdp18;bep12;bfp32;bfp32
+Monthly Salary at which would take Job;bap1401;bbp1401;bcp1601;bdp2301;bep1701;bfp3701;bfp3701
+Difficulty of Finding New Job;bap40;bbp46;bcp41;bdp55;bep40;bfp71;bfp71
+Working Days per Week;NA;bbp5401;bcp4701;bdp6301;NA;bfp8001;bfp8001
+Contracted Working Hours;bap5001;bbp6301;bcp5001;bdp6501;bep4701;bfp8101;bfp8101
+Hours per Week Actual;bap51;bbp64;bcp51;bdp66;bep48;bfp82;bfp82
+Work Overtime;bap57;bbp69;bcp55;bdp72;bep52;bfp97;bfp97
+Unemployment Benefit;bap7005;bbp8005;bcp6805;bdp8605;bep6505;bfp114h01m;bfp114h01m
+Current Health;bap87;bbp97;bcp91;bdp110;bep89;bfp127;bfp127
+Both Parents German Native Language;NA;bbp135;NA;bdp138;NA;bfp153;bfp153
+Speaking German;bap13201;bbp13601;NA;bdp13901;NA;bfp15401;bfp15401
+Label;bap13203;bbp13603;NA;bdp13903;NA;bfp15403;bfp15403
+Gross income last month;bap6101;bbp7301;bcp5901;bdp7701;bep5701;bfp10201;bfp10201
+Current Net Labor Income in Euro;labnet10;labnet11;labnet12;labnet13;labnet14;labnet15;labnet15
+Employment Status;emplst10;emplst11;emplst12;emplst13;emplst14;emplst15;emplst15
+Labor Force Status;lfs10;lfs11;lfs12;lfs13;lfs14;lfs15;lfs15
+Actual Work Time Per Week;batatzeit;bbtatzeit;bctatzeit;bdtatzeit;betatzeit;bftatzeit;bftatzeit
+Agreed Upon Work Time Per Week;bavebzeit;bbvebzeit;bcvebzeit;bdvebzeit;bevebzeit;bfvebzeit;bfvebzeit
+Size of the company;betr10;betr11;betr12;betr13;betr14;betr15;betr15
+Employed Full-Time in Prev. Yr;bap1a01;bbp1a01;bcp1a01;bdp1a01;bep1a01;bfp1a01;bfp1a01
+Employed Full-Time No. Month Prev. Yr;bap1a02;bbp1a02;bcp1a02;bdp1a02;bep1a02;bfp1a02;bfp1a02
+Employed Part-Time in Prev. Yr;bap1b01;bbp1b01;bcp1b01;bdp1b01;bep1b01;bfp1b01;bfp1b01
+Employed Part-Time No. Months Prev. Yr;bap1b02;bbp1b02;bcp1b02;bdp1b02;bep1b02;bfp1b02;bfp1b02
+Officially Unemployed Prev Yr;bap1d01;bbp1d01;bcp1d01;bdp1d01;bep1d01;bfp1d01;bfp1d01
+Amount of Education Or Training in Years;babilzeit;bbbilzeit;bcbilzeit;bdbilzeit;bebilzeit;bfbilzeit;bfbilzeit
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
