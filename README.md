@@ -1,5 +1,6 @@
 # Analysis-Minimum-Wage
-###This project cleans microdata from the SOEP and consequently applies (fixed effects) regression analysis to estimate the effect of Germany's Minimum Wage on employment. 
+
+### This project cleans microdata from the SOEP and consequently applies (fixed effects) regression analysis to estimate the effect of Germany's Minimum Wage on employment. 
 
 To practice dealing with raw data, I used the wide datasets from the German Microcensus "GSOEP" (https://www.diw.de/sixcms/detail.php?id=diw_01.c.444333.de). The first R script, 
 "DataCleaning.R" therefore uses 4 loops to read in the different documents. I specified which variables should be read in in the csv file 
